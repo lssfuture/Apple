@@ -2,7 +2,7 @@
 * @Author: 我的文档
 * @Date:   2018-08-10 08:40:48
 * @Last Modified by:   我的文档
-* @Last Modified time: 2018-09-15 13:57:44
+* @Last Modified time: 2018-09-15 17:46:06
 */
 *{
 	margin: 0;
@@ -58,7 +58,7 @@ header span{
 	height: 580px;
 	background-image : url("../img/ipad_large_.jpg");
 	background-repeat: no-repeat;
-	background-color: #fafafa;
+	background-color: #f5f5f5;
 	background-position: center bottom;
 }
 .MacBookpro{
