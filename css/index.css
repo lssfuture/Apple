@@ -14,7 +14,7 @@
 }
 header{
 	width: 100%;
-	height: 44px;
+	height: 50px;
 	background-color: #333;
 	padding-left: 158px;
 	padding-right: 158px;
@@ -115,7 +115,6 @@ header span{
 	height: 580px;
 	border: 14px solid #fff;
 	float: left;
-	background-color:red; 
 }
 .adv ul li:nth-child(2n+1){
 	border-right: none;
@@ -394,6 +393,7 @@ input::-webkit-input-placeholder{
 	header{
 		padding-right: 18px;
 		padding-left: 18px;
+
 	}
 	header a.list{
 		display: inline;
